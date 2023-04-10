@@ -1,6 +1,5 @@
 #include<stdio.h>
 #include<string.h>
-#include<conio.h>
 void main()
 {
     char p[10][5],temp[5];
